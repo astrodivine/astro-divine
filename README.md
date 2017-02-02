@@ -1,1 +1,1 @@
-# openeditorials
+# astro-divine.com website
